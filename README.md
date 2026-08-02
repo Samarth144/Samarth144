@@ -2,7 +2,7 @@
 
 # Hi, I'm Samarth 👋
 
-### Building intelligent software, one system at a time.
+### Curious enough to build it. Persistent enough to finish it.
 
 </div>
 
