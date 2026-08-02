@@ -62,15 +62,6 @@ A blockchain-powered land registry and dispute management platform enabling secu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth144&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth144&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
