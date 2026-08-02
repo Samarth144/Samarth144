@@ -2,21 +2,17 @@
 
 # Hi, I'm Samarth 👋
 
-### *Curious enough to build it. Persistent enough to finish it.*
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I enjoy building software that solves real-world problems.
+I enjoy building projects that challenge me and teach me something new.
 
-My interests lie at the intersection of **Artificial Intelligence, backend engineering, and intelligent automation**—from multi-agent systems and Retrieval-Augmented Generation (RAG) to scalable full-stack applications.
+I am exploring AI, backend development and full-stack applications—trying to turn ideas into working software rather than leaving them as concepts.
 
-I believe the best way to learn is by building, experimenting, and continuously improving. Every repository here represents something I wanted to understand, challenge myself with, or bring to life.
-
-When I'm not building projects, you'll usually find me solving algorithmic problems, exploring system design, or learning about emerging technologies.
+Every repository here represents a problem I wanted to solve, a technology I wanted to learn or an experiment that helped me grow as a developer.
 
 ---
 
@@ -30,34 +26,11 @@ When I'm not building projects, you'll usually find me solving algorithmic probl
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚨 Project O.S.S.
-An AI-powered Site Reliability & Incident Response framework that automates incident detection, root-cause analysis, remediation, customer communication, and post-mortem generation using autonomous AI agents.
-
-### 🧠 Resonance
-A personalized cancer treatment planning platform combining multimodal AI, RAG, medical image segmentation, and explainable AI to assist clinical decision-making.
-
-### 🌍 OpenAcres
-A blockchain-powered land registry and dispute management platform enabling secure ownership verification, transparent transfers, and AI-assisted fraud detection.
-
----
-
-## 🎯 Current Focus
-
-- 📚 Strengthening DSA & Problem Solving
-- ⚡ Building production-ready AI applications
-- 🏗️ Learning System Design & Scalable Architectures
-- 🌱 Contributing to projects that create real impact
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-<a href="https://leetcode.com/u/YOUR_LEETCODE/">LeetCode</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://www.linkedin.com/in/samarthkumbhar144/">LinkedIn</a> •
+<a href="https://leetcode.com/u/Samarth_144/">LeetCode</a>
 </p>
 
 ---
